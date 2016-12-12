@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		978FC7691DFE36AC0034A14B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 978FC7681DFE36AC0034A14B /* Default-568h@2x.png */; };
 		D77A94531B6F7BEB00B97104 /* Apple.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D77A94471B6F7BEB00B97104 /* Apple.mp3 */; };
 		D77A94541B6F7BEB00B97104 /* Because I Love You.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D77A94481B6F7BEB00B97104 /* Because I Love You.mp3 */; };
 		D77A94551B6F7BEB00B97104 /* Butterfly.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = D77A94491B6F7BEB00B97104 /* Butterfly.mp3 */; };
@@ -230,6 +231,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		978FC7681DFE36AC0034A14B /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		D77A94471B6F7BEB00B97104 /* Apple.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Apple.mp3; sourceTree = "<group>"; };
 		D77A94481B6F7BEB00B97104 /* Because I Love You.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Because I Love You.mp3"; sourceTree = "<group>"; };
 		D77A94491B6F7BEB00B97104 /* Butterfly.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Butterfly.mp3; sourceTree = "<group>"; };
@@ -835,6 +837,7 @@
 		D7A495AB1B5BCC3200421FAC = {
 			isa = PBXGroup;
 			children = (
+				978FC7681DFE36AC0034A14B /* Default-568h@2x.png */,
 				D7A4969F1B5BD1BF00421FAC /* Resource */,
 				D7A496011B5BD1B600421FAC /* Dependencies */,
 				D7A495F11B5BCFCC00421FAC /* Frameworks */,
@@ -1326,6 +1329,7 @@
 				D7A4967E1B5BD1B600421FAC /* DBPrivacyHelperLocalizable.strings in Resources */,
 				D77A954E1B70AACB00B97104 /* number_two_style_2.plist in Resources */,
 				D77A952C1B70AAC100B97104 /* makecards_puzzle3_storyboard3_icon@2x.png in Resources */,
+				978FC7691DFE36AC0034A14B /* Default-568h@2x.png in Resources */,
 				D77A954A1B70AACB00B97104 /* number_three_style_1.plist in Resources */,
 				D791AFD91B743702003B5605 /* sm_pattern_20.png in Resources */,
 				D791AF5D1B73BBED003B5605 /* selected.png in Resources */,
